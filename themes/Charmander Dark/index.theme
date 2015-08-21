@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Charmander Dark
+Comment=Charmander simple and flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme="Charmander Dark"
+MetacityTheme="Charmander Dark"
+IconTheme=ubuntu-mono-dark
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
+X-Ubuntu-UseOverlayScrollbars=true
