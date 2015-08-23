@@ -1,3 +1,6 @@
+# Still in development!
+The theme is still in development, not complete yet!
+
 # Charmander Linux Theme
 Simple and Flat theme for Linux created from [Roman Nguyen Concept](https://www.behance.net/gallery/28804097/Ubuntu-1604-Stupendously-Hot-Charmander-concept)
 
