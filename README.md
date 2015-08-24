@@ -1,4 +1,6 @@
 # Not Released yet!
+
+[![Join the chat at https://gitter.im/aravind08/Themes](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aravind08/Themes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The theme is still in development, if you want to join the project Fork it and we will accept pull requests.
 For informations look the milestones or follow the [facebook page](https://www.facebook.com/CharmanderProject). If anybody need something or have a question open a ticket from it, we will answer it.
 
